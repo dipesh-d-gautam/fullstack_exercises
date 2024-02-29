@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  margin-top: 5px;
+  margin-left: 5px;
+}
+
+.country {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.language {
+  margin-top: 20px;
+}
+
+.language > p {
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.language > li {
+  list-style: inside;
+  margin-left: 10px;
+}
+
+.flagContainer {
+  margin-top: 20px;
+  height: 150px;
+}
+
+.weather {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-weight: bold;
+  font-size: 22px;
+}
